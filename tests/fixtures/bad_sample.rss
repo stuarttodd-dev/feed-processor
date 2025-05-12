@@ -1,0 +1,6 @@
+<rss version="2.0">
+  <channel>
+    <title>Example Feed</title>
+    <description>This is an example RSS feed
+    <link>http://example.com/</link>
+    <!-- Missing closing </description> and closing </channel>, </rss> -->

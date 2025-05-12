@@ -1,0 +1,8 @@
+{
+  "name": "Example",
+  "type": "demo",
+  "items": [
+    { "id": 1, "label": "First" },
+    { "id": 2, "label": "Second"
+      ]
+    }
